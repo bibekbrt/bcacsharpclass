@@ -1,0 +1,7 @@
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\ArrayBasic\bin\Debug\ArrayBasic.exe.config
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\ArrayBasic\bin\Debug\ArrayBasic.exe
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\ArrayBasic\bin\Debug\ArrayBasic.pdb
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\ArrayBasic\obj\Debug\ArrayBasic.csprojAssemblyReference.cache
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\ArrayBasic\obj\Debug\ArrayBasic.csproj.CoreCompileInputs.cache
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\ArrayBasic\obj\Debug\ArrayBasic.exe
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\ArrayBasic\obj\Debug\ArrayBasic.pdb

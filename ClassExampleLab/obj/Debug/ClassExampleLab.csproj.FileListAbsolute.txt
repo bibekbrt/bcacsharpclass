@@ -1,0 +1,7 @@
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\ClassExampleLab\bin\Debug\ClassExampleLab.exe.config
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\ClassExampleLab\bin\Debug\ClassExampleLab.exe
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\ClassExampleLab\bin\Debug\ClassExampleLab.pdb
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\ClassExampleLab\obj\Debug\ClassExampleLab.csprojAssemblyReference.cache
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\ClassExampleLab\obj\Debug\ClassExampleLab.csproj.CoreCompileInputs.cache
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\ClassExampleLab\obj\Debug\ClassExampleLab.exe
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\ClassExampleLab\obj\Debug\ClassExampleLab.pdb

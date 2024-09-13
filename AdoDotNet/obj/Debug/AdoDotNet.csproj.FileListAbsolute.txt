@@ -1,0 +1,7 @@
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\AdoDotNet\bin\Debug\AdoDotNet.exe.config
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\AdoDotNet\bin\Debug\AdoDotNet.exe
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\AdoDotNet\bin\Debug\AdoDotNet.pdb
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\AdoDotNet\obj\Debug\AdoDotNet.csprojAssemblyReference.cache
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\AdoDotNet\obj\Debug\AdoDotNet.csproj.CoreCompileInputs.cache
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\AdoDotNet\obj\Debug\AdoDotNet.exe
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\AdoDotNet\obj\Debug\AdoDotNet.pdb

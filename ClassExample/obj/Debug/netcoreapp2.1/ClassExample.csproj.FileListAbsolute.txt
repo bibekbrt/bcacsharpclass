@@ -1,0 +1,11 @@
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\ClassExample\bin\Debug\netcoreapp2.1\ClassExample.deps.json
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\ClassExample\bin\Debug\netcoreapp2.1\ClassExample.runtimeconfig.json
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\ClassExample\bin\Debug\netcoreapp2.1\ClassExample.runtimeconfig.dev.json
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\ClassExample\bin\Debug\netcoreapp2.1\ClassExample.dll
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\ClassExample\bin\Debug\netcoreapp2.1\ClassExample.pdb
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\ClassExample\obj\Debug\netcoreapp2.1\ClassExample.csproj.CoreCompileInputs.cache
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\ClassExample\obj\Debug\netcoreapp2.1\ClassExample.AssemblyInfoInputs.cache
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\ClassExample\obj\Debug\netcoreapp2.1\ClassExample.AssemblyInfo.cs
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\ClassExample\obj\Debug\netcoreapp2.1\ClassExample.dll
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\ClassExample\obj\Debug\netcoreapp2.1\ClassExample.pdb
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\ClassExample\obj\Debug\netcoreapp2.1\ClassExample.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\PassDelegateAsMethod\bin\Debug\netcoreapp2.1\PassDelegateAsMethod.deps.json
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\PassDelegateAsMethod\bin\Debug\netcoreapp2.1\PassDelegateAsMethod.runtimeconfig.json
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\PassDelegateAsMethod\bin\Debug\netcoreapp2.1\PassDelegateAsMethod.runtimeconfig.dev.json
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\PassDelegateAsMethod\bin\Debug\netcoreapp2.1\PassDelegateAsMethod.dll
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\PassDelegateAsMethod\bin\Debug\netcoreapp2.1\PassDelegateAsMethod.pdb
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\PassDelegateAsMethod\obj\Debug\netcoreapp2.1\PassDelegateAsMethod.csproj.CoreCompileInputs.cache
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\PassDelegateAsMethod\obj\Debug\netcoreapp2.1\PassDelegateAsMethod.AssemblyInfoInputs.cache
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\PassDelegateAsMethod\obj\Debug\netcoreapp2.1\PassDelegateAsMethod.AssemblyInfo.cs
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\PassDelegateAsMethod\obj\Debug\netcoreapp2.1\PassDelegateAsMethod.dll
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\PassDelegateAsMethod\obj\Debug\netcoreapp2.1\PassDelegateAsMethod.pdb

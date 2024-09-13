@@ -1,0 +1,11 @@
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\DelegeteExample\bin\Debug\netcoreapp2.1\DelegeteExample.deps.json
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\DelegeteExample\bin\Debug\netcoreapp2.1\DelegeteExample.runtimeconfig.json
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\DelegeteExample\bin\Debug\netcoreapp2.1\DelegeteExample.runtimeconfig.dev.json
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\DelegeteExample\bin\Debug\netcoreapp2.1\DelegeteExample.dll
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\DelegeteExample\bin\Debug\netcoreapp2.1\DelegeteExample.pdb
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\DelegeteExample\obj\Debug\netcoreapp2.1\DelegeteExample.csprojAssemblyReference.cache
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\DelegeteExample\obj\Debug\netcoreapp2.1\DelegeteExample.csproj.CoreCompileInputs.cache
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\DelegeteExample\obj\Debug\netcoreapp2.1\DelegeteExample.AssemblyInfoInputs.cache
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\DelegeteExample\obj\Debug\netcoreapp2.1\DelegeteExample.AssemblyInfo.cs
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\DelegeteExample\obj\Debug\netcoreapp2.1\DelegeteExample.dll
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\DelegeteExample\obj\Debug\netcoreapp2.1\DelegeteExample.pdb

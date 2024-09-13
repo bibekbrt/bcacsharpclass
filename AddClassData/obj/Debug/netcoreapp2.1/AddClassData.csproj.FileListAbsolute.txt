@@ -1,0 +1,11 @@
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\AddClassData\bin\Debug\netcoreapp2.1\AddClassData.deps.json
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\AddClassData\bin\Debug\netcoreapp2.1\AddClassData.runtimeconfig.json
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\AddClassData\bin\Debug\netcoreapp2.1\AddClassData.runtimeconfig.dev.json
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\AddClassData\bin\Debug\netcoreapp2.1\AddClassData.dll
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\AddClassData\bin\Debug\netcoreapp2.1\AddClassData.pdb
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\AddClassData\obj\Debug\netcoreapp2.1\AddClassData.csprojAssemblyReference.cache
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\AddClassData\obj\Debug\netcoreapp2.1\AddClassData.csproj.CoreCompileInputs.cache
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\AddClassData\obj\Debug\netcoreapp2.1\AddClassData.AssemblyInfoInputs.cache
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\AddClassData\obj\Debug\netcoreapp2.1\AddClassData.AssemblyInfo.cs
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\AddClassData\obj\Debug\netcoreapp2.1\AddClassData.dll
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\AddClassData\obj\Debug\netcoreapp2.1\AddClassData.pdb

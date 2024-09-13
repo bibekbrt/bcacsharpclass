@@ -1,0 +1,14 @@
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\AnonymExample\bin\Debug\netcoreapp2.1\AnonymExample.deps.json
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\AnonymExample\bin\Debug\netcoreapp2.1\AnonymExample.runtimeconfig.json
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\AnonymExample\bin\Debug\netcoreapp2.1\AnonymExample.runtimeconfig.dev.json
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\AnonymExample\bin\Debug\netcoreapp2.1\AnonymExample.dll
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\AnonymExample\bin\Debug\netcoreapp2.1\AnonymExample.pdb
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\AnonymExample\bin\Debug\netcoreapp2.1\MyLibrary.dll
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\AnonymExample\bin\Debug\netcoreapp2.1\MyLibrary.pdb
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\AnonymExample\obj\Debug\netcoreapp2.1\AnonymExample.csprojAssemblyReference.cache
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\AnonymExample\obj\Debug\netcoreapp2.1\AnonymExample.csproj.CoreCompileInputs.cache
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\AnonymExample\obj\Debug\netcoreapp2.1\AnonymExample.AssemblyInfoInputs.cache
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\AnonymExample\obj\Debug\netcoreapp2.1\AnonymExample.AssemblyInfo.cs
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\AnonymExample\obj\Debug\netcoreapp2.1\AnonymExample.csproj.CopyComplete
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\AnonymExample\obj\Debug\netcoreapp2.1\AnonymExample.dll
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\AnonymExample\obj\Debug\netcoreapp2.1\AnonymExample.pdb

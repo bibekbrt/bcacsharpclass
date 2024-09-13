@@ -1,0 +1,10 @@
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\DelegateSimple\bin\Debug\netcoreapp2.1\DelegateSimple.deps.json
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\DelegateSimple\bin\Debug\netcoreapp2.1\DelegateSimple.runtimeconfig.json
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\DelegateSimple\bin\Debug\netcoreapp2.1\DelegateSimple.runtimeconfig.dev.json
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\DelegateSimple\bin\Debug\netcoreapp2.1\DelegateSimple.dll
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\DelegateSimple\bin\Debug\netcoreapp2.1\DelegateSimple.pdb
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\DelegateSimple\obj\Debug\netcoreapp2.1\DelegateSimple.csproj.CoreCompileInputs.cache
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\DelegateSimple\obj\Debug\netcoreapp2.1\DelegateSimple.AssemblyInfoInputs.cache
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\DelegateSimple\obj\Debug\netcoreapp2.1\DelegateSimple.AssemblyInfo.cs
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\DelegateSimple\obj\Debug\netcoreapp2.1\DelegateSimple.dll
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\DelegateSimple\obj\Debug\netcoreapp2.1\DelegateSimple.pdb

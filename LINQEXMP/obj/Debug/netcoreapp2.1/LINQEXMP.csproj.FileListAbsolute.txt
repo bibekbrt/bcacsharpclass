@@ -1,0 +1,10 @@
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\LINQEXMP\bin\Debug\netcoreapp2.1\LINQEXMP.deps.json
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\LINQEXMP\bin\Debug\netcoreapp2.1\LINQEXMP.runtimeconfig.json
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\LINQEXMP\bin\Debug\netcoreapp2.1\LINQEXMP.runtimeconfig.dev.json
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\LINQEXMP\bin\Debug\netcoreapp2.1\LINQEXMP.dll
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\LINQEXMP\bin\Debug\netcoreapp2.1\LINQEXMP.pdb
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\LINQEXMP\obj\Debug\netcoreapp2.1\LINQEXMP.csproj.CoreCompileInputs.cache
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\LINQEXMP\obj\Debug\netcoreapp2.1\LINQEXMP.AssemblyInfoInputs.cache
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\LINQEXMP\obj\Debug\netcoreapp2.1\LINQEXMP.AssemblyInfo.cs
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\LINQEXMP\obj\Debug\netcoreapp2.1\LINQEXMP.dll
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\LINQEXMP\obj\Debug\netcoreapp2.1\LINQEXMP.pdb

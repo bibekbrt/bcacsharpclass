@@ -1,0 +1,10 @@
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\GenericsDelegate\bin\Debug\netcoreapp2.1\GenericsDelegate.deps.json
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\GenericsDelegate\bin\Debug\netcoreapp2.1\GenericsDelegate.runtimeconfig.json
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\GenericsDelegate\bin\Debug\netcoreapp2.1\GenericsDelegate.runtimeconfig.dev.json
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\GenericsDelegate\bin\Debug\netcoreapp2.1\GenericsDelegate.dll
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\GenericsDelegate\bin\Debug\netcoreapp2.1\GenericsDelegate.pdb
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\GenericsDelegate\obj\Debug\netcoreapp2.1\GenericsDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\GenericsDelegate\obj\Debug\netcoreapp2.1\GenericsDelegate.AssemblyInfoInputs.cache
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\GenericsDelegate\obj\Debug\netcoreapp2.1\GenericsDelegate.AssemblyInfo.cs
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\GenericsDelegate\obj\Debug\netcoreapp2.1\GenericsDelegate.dll
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\GenericsDelegate\obj\Debug\netcoreapp2.1\GenericsDelegate.pdb

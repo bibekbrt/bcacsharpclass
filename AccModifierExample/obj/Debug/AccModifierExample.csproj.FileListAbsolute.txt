@@ -1,0 +1,7 @@
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\AccModifierExample\bin\Debug\AccModifierExample.exe.config
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\AccModifierExample\bin\Debug\AccModifierExample.exe
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\AccModifierExample\bin\Debug\AccModifierExample.pdb
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\AccModifierExample\obj\Debug\AccModifierExample.csprojAssemblyReference.cache
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\AccModifierExample\obj\Debug\AccModifierExample.csproj.CoreCompileInputs.cache
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\AccModifierExample\obj\Debug\AccModifierExample.exe
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\AccModifierExample\obj\Debug\AccModifierExample.pdb

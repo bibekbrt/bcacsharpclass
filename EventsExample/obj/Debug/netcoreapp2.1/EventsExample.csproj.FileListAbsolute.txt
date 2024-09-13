@@ -1,0 +1,10 @@
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\EventsExample\bin\Debug\netcoreapp2.1\EventsExample.deps.json
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\EventsExample\bin\Debug\netcoreapp2.1\EventsExample.runtimeconfig.json
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\EventsExample\bin\Debug\netcoreapp2.1\EventsExample.runtimeconfig.dev.json
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\EventsExample\bin\Debug\netcoreapp2.1\EventsExample.dll
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\EventsExample\bin\Debug\netcoreapp2.1\EventsExample.pdb
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\EventsExample\obj\Debug\netcoreapp2.1\EventsExample.csproj.CoreCompileInputs.cache
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\EventsExample\obj\Debug\netcoreapp2.1\EventsExample.AssemblyInfoInputs.cache
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\EventsExample\obj\Debug\netcoreapp2.1\EventsExample.AssemblyInfo.cs
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\EventsExample\obj\Debug\netcoreapp2.1\EventsExample.dll
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\EventsExample\obj\Debug\netcoreapp2.1\EventsExample.pdb

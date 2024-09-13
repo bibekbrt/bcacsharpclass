@@ -1,0 +1,11 @@
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\PublishSubs\bin\Debug\netcoreapp2.1\PublishSubs.deps.json
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\PublishSubs\bin\Debug\netcoreapp2.1\PublishSubs.runtimeconfig.json
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\PublishSubs\bin\Debug\netcoreapp2.1\PublishSubs.runtimeconfig.dev.json
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\PublishSubs\bin\Debug\netcoreapp2.1\PublishSubs.dll
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\PublishSubs\bin\Debug\netcoreapp2.1\PublishSubs.pdb
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\PublishSubs\obj\Debug\netcoreapp2.1\PublishSubs.csproj.CoreCompileInputs.cache
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\PublishSubs\obj\Debug\netcoreapp2.1\PublishSubs.AssemblyInfoInputs.cache
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\PublishSubs\obj\Debug\netcoreapp2.1\PublishSubs.AssemblyInfo.cs
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\PublishSubs\obj\Debug\netcoreapp2.1\PublishSubs.dll
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\PublishSubs\obj\Debug\netcoreapp2.1\PublishSubs.pdb
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\PublishSubs\obj\Debug\netcoreapp2.1\PublishSubs.csprojAssemblyReference.cache

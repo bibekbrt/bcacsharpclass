@@ -1,0 +1,11 @@
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\MultiDelegate\bin\Debug\netcoreapp2.1\MultiDelegate.deps.json
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\MultiDelegate\bin\Debug\netcoreapp2.1\MultiDelegate.runtimeconfig.json
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\MultiDelegate\bin\Debug\netcoreapp2.1\MultiDelegate.runtimeconfig.dev.json
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\MultiDelegate\bin\Debug\netcoreapp2.1\MultiDelegate.dll
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\MultiDelegate\bin\Debug\netcoreapp2.1\MultiDelegate.pdb
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\MultiDelegate\obj\Debug\netcoreapp2.1\MultiDelegate.csprojAssemblyReference.cache
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\MultiDelegate\obj\Debug\netcoreapp2.1\MultiDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\MultiDelegate\obj\Debug\netcoreapp2.1\MultiDelegate.AssemblyInfoInputs.cache
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\MultiDelegate\obj\Debug\netcoreapp2.1\MultiDelegate.AssemblyInfo.cs
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\MultiDelegate\obj\Debug\netcoreapp2.1\MultiDelegate.dll
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\MultiDelegate\obj\Debug\netcoreapp2.1\MultiDelegate.pdb

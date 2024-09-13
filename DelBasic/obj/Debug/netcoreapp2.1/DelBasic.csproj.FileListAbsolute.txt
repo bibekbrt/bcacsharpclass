@@ -1,0 +1,10 @@
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\DelBasic\bin\Debug\netcoreapp2.1\DelBasic.deps.json
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\DelBasic\bin\Debug\netcoreapp2.1\DelBasic.runtimeconfig.json
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\DelBasic\bin\Debug\netcoreapp2.1\DelBasic.runtimeconfig.dev.json
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\DelBasic\bin\Debug\netcoreapp2.1\DelBasic.dll
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\DelBasic\bin\Debug\netcoreapp2.1\DelBasic.pdb
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\DelBasic\obj\Debug\netcoreapp2.1\DelBasic.csproj.CoreCompileInputs.cache
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\DelBasic\obj\Debug\netcoreapp2.1\DelBasic.AssemblyInfoInputs.cache
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\DelBasic\obj\Debug\netcoreapp2.1\DelBasic.AssemblyInfo.cs
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\DelBasic\obj\Debug\netcoreapp2.1\DelBasic.dll
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\DelBasic\obj\Debug\netcoreapp2.1\DelBasic.pdb

@@ -1,0 +1,7 @@
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\FunctionAndRef\bin\Debug\FunctionAndRef.exe.config
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\FunctionAndRef\bin\Debug\FunctionAndRef.exe
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\FunctionAndRef\bin\Debug\FunctionAndRef.pdb
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\FunctionAndRef\obj\Debug\FunctionAndRef.csprojAssemblyReference.cache
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\FunctionAndRef\obj\Debug\FunctionAndRef.csproj.CoreCompileInputs.cache
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\FunctionAndRef\obj\Debug\FunctionAndRef.exe
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\FunctionAndRef\obj\Debug\FunctionAndRef.pdb

@@ -1,0 +1,10 @@
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\FuncAndAction\bin\Debug\netcoreapp2.1\FuncAndAction.deps.json
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\FuncAndAction\bin\Debug\netcoreapp2.1\FuncAndAction.runtimeconfig.json
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\FuncAndAction\bin\Debug\netcoreapp2.1\FuncAndAction.runtimeconfig.dev.json
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\FuncAndAction\bin\Debug\netcoreapp2.1\FuncAndAction.dll
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\FuncAndAction\bin\Debug\netcoreapp2.1\FuncAndAction.pdb
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\FuncAndAction\obj\Debug\netcoreapp2.1\FuncAndAction.csproj.CoreCompileInputs.cache
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\FuncAndAction\obj\Debug\netcoreapp2.1\FuncAndAction.AssemblyInfoInputs.cache
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\FuncAndAction\obj\Debug\netcoreapp2.1\FuncAndAction.AssemblyInfo.cs
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\FuncAndAction\obj\Debug\netcoreapp2.1\FuncAndAction.dll
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\FuncAndAction\obj\Debug\netcoreapp2.1\FuncAndAction.pdb

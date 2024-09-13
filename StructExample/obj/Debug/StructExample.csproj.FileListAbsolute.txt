@@ -1,0 +1,7 @@
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\StructExample\bin\Debug\StructExample.exe.config
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\StructExample\bin\Debug\StructExample.exe
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\StructExample\bin\Debug\StructExample.pdb
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\StructExample\obj\Debug\StructExample.csprojAssemblyReference.cache
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\StructExample\obj\Debug\StructExample.csproj.CoreCompileInputs.cache
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\StructExample\obj\Debug\StructExample.exe
+C:\Users\Bibek Ranjan Baral\source\repos\DotNeClass\StructExample\obj\Debug\StructExample.pdb
